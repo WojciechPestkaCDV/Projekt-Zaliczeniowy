@@ -18,4 +18,4 @@ Głównym plikiem aplikacji jest Program.cs
 
 ## Autorzy
 * Wojtek Pestka
-* * Dawid Sekula
+* Dawid Sekula
