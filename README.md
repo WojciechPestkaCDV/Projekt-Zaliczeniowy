@@ -13,8 +13,9 @@ Aplikację można sklonować (https://github.com/WojciechPestkaCDV/Projekt-Zalic
 
 Dokumenctacja prjektu jest dostępna pod linkiem: (https://github.com/WojciechPestkaCDV/Projekt-Zaliczeniowy/wiki)
 
-## Budowa 
+## Budowa Programu
 Głównym plikiem aplikacji jest Program.cs
+
 
 ## Autorzy
 * Wojtek Pestka
