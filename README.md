@@ -15,7 +15,7 @@ Dokumenctacja prjektu jest dostępna pod linkiem: (https://github.com/WojciechPe
 
 ## Budowa Programu
 Głównym plikiem aplikacji jest Program.cs
-
+![Preview](budowa.png)
 
 ## Autorzy
 * Wojtek Pestka
