@@ -6,3 +6,5 @@ Aplikacja konsolowa pozwalająca na wyświetlanie: produktów w sklepie, tworzen
 oraz z poziomu właściciela: edytowania asorymetu i sprawdzania rachunków. 
 
 Głównym plikiem aplikacji jest Program.cs
+
+Aplikację można sklonować [z] (https://github.com/WojciechPestkaCDV/Projekt-Zaliczeniowy.git)
