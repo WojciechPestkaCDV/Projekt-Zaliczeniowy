@@ -1,5 +1,7 @@
 # Projekt zaliczeniowy "Sklep" - Programowanie Obiekotwe
 
+![Preview](gif_boży.gif)
+
 ## Opis
 Projekt zaliczeniowy z przedmiotu Programowanie Obiektowe.
 Aplikacja konsolowa pozwalająca na wyświetlanie: produktów w sklepie, tworzenie paragonu lub faktury, edytowania listy zakupów 
