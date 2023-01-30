@@ -8,3 +8,5 @@ oraz z poziomu właściciela: edytowania asorymetu i sprawdzania rachunków.
 Głównym plikiem aplikacji jest Program.cs
 
 Aplikację można sklonować [z] (https://github.com/WojciechPestkaCDV/Projekt-Zaliczeniowy.git)
+
+Dokumenctacja prjektu jest dostępna pod linkiem: (https://github.com/WojciechPestkaCDV/Projekt-Zaliczeniowy/wiki)
